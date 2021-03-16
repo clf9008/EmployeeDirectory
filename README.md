@@ -30,4 +30,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ##### Deployed Application 
 
-[User Directory](https://github.com/clf9008/EmployeeDirectory/blob/main/UserDirectory.gif)
+![User Directory](https://github.com/clf9008/EmployeeDirectory/blob/main/UserDirectory.gif)
