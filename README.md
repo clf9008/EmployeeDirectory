@@ -26,8 +26,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ##### Application Preview
-![APP Demo](C:\Users\Chase\Desktop\New folder\EmployeeDirectory\UserDirectory.gif)
+![APP Demo](https://github.com/clf9008/EmployeeDirectory/blob/main/UserDirectory.gif)
 
 ##### Deployed Application 
 
-![User Directory](https://github.com/clf9008/EmployeeDirectory/blob/main/UserDirectory.gif)
+![User Directory](https://clf9008userdirectory.herokuapp.com/)
