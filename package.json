@@ -11,8 +11,6 @@
     },
     "scripts": {
         "start": "react-scripts start",
-        "deploy": "now ./build",
-        "postdeploy": "now alias -A ./build/now.json"
     },
     "eslintConfig": {
         "extends": "react-app"
