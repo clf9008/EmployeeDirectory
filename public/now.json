@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "alias": "nrclayton-user-directory",
+    "alias": "clf9008-user-directory",
     "name": "user-directory",
     "routes": [
         { "handle": "filesystem" },
